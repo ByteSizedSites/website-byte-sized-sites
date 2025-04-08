@@ -1,0 +1,247 @@
+Script started on 2025-04-07 21:13:40-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="148" LINES="8"]
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites[00m$ laravel new byte-sized-sites
+[?2004l
+  [31m _                               _
+  | |                             | |
+  | |     __ _ _ __ __ ___   _____| |
+  | |    / _` |  __/ _` \ \ / / _ \ |
+  | |___| (_| | | | (_| |\ V /  __/ |
+  |______\__,_|_|  \__,_| \_/ \___|_|[39m
+
+
+[33mIn NewCommand.php line 782:[39m
+[37;41m                               [39;49m
+[37;41m  Application already exists!  [39;49m
+[37;41m                               [39;49m
+
+[32mnew [--dev] [--git] [--branch BRANCH] [--github [GITHUB]] [--organization ORGANIZATION] [--database DATABASE] [--react] [--vue] [--livewire] [--livewire-class-components] [--workos] [--npm] [--pest] [--phpunit] [--using [USING]] [-f|--force] [--] <name>[39m
+
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites[00m$ laravel new byte-sized-sitescomposer global require laravel/installer[13Plaravel new byte-sized-sites[Klaravel new byte-sized-sitescomposer global require laravel/installer/bin/bash -c "$(curl -fsSL https://php.new/install/linux/8.4)"ssh 138.197.37.138[Kftgfxjkbdn@138.197.37.138ssh ftgfxjkbdn@bytesizedsites.com[4P138.197.37.138bytesizedsites.com[8Pftgfxjkbdn@138.197.37.138[7Pssh 138.197.37.138/bin/bash -c "$(curl -fsSL https://php.new/install/linux/8.4)"[21Pcomposer global require laravel/installer[13Plaravel new byte-sized-sites[Klh[Kp[K[Kphp \dedev/run.php 
+[?2004lcd byte-sized-sites
+npm install && npm run build
+composer run dev[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites[00m$ php dev/run.php 
+[?2004lcd byte-sized-sites
+npm install && npm run build
+composer run dev[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites[00m$ cd by
+[?2004lbash: cd: by: No such file or directory
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites[00m$ cd byte-sized-sites/
+[?2004l[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ cd byte-sized-sites/[Kphp dev/run.php 
+[?2004lCould not open input file: dev/run.php
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ php dev/run.php [C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K\[K.\[K\[K\[K.\/dev/run.php 
+[?2004lcd byte-sized-sites
+npm install && npm run build
+composer run dev[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ zds[K[K[Kphp ../dev/run.php 
+[?2004lCould not open input file: ../dev/run.php
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ php ../dev/run.php [3P[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lCould not open input file: dev/run.php
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ php dev/run.php [K[K[K[K[K[K[K[K[K[K[K[K~~\[K[K[K~\[K/
+.bash_history              .landscape/                .python_history            header_raw                 venv/
+.bash_logout               .local/                    .ssh/                      header_raw.py              ytmusic_project/
+.bashrc                    .motd_shown                .sudo_as_admin_successful  my_python_project/         
+.cache/                    .npm/                      .viminfo                   script.json                
+.config/                   .profile                   browser.json               script.py                  
+]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ php ~/
+.bash_history              .landscape/                .python_history            header_raw                 venv/
+.bash_logout               .local/                    .ssh/                      header_raw.py              ytmusic_project/
+.bashrc                    .motd_shown                .sudo_as_admin_successful  my_python_project/         
+.cache/                    .npm/                      .viminfo                   script.json                
+.config/                   .profile                   browser.json               script.py                  
+]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ php ~/..\[K/huyndo/
+.bash_history              .landscape/                .python_history            header_raw                 venv/
+.bash_logout               .local/                    .ssh/                      header_raw.py              ytmusic_project/
+.bashrc                    .motd_shown                .sudo_as_admin_successful  my_python_project/         
+.cache/                    .npm/                      .viminfo                   script.json                
+.config/                   .profile                   browser.json               script.py                  
+]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ php ~/../huyndo/
+.bash_history              .landscape/                .python_history            header_raw                 venv/
+.bash_logout               .local/                    .ssh/                      header_raw.py              ytmusic_project/
+.bashrc                    .motd_shown                .sudo_as_admin_successful  my_python_project/         
+.cache/                    .npm/                      .viminfo                   script.json                
+.config/                   .profile                   browser.json               script.py                  
+]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ php ~/../huyndo/
+.bash_history              .landscape/                .python_history            header_raw                 venv/
+.bash_logout               .local/                    .ssh/                      header_raw.py              ytmusic_project/
+.bashrc                    .motd_shown                .sudo_as_admin_successful  my_python_project/         
+.cache/                    .npm/                      .viminfo                   script.json                
+.config/                   .profile                   browser.json               script.py                  
+]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ php ~/../huyndo/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mcd byte-sized-sites[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd byte-sized-sites
+[A
+[?2004lbash: cd: byte-sized-sites: No such file or directory
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ [7mnpm install && npm run build[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnpm install && npm run build
+[A
+[?2004l[?25l([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠸ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 190ms[0m[K([107;97m##################[0m) ⠴ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠋ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠏ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠸ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠧ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠦ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠴ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K([107;97m##################[0m) ⠹ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 27ms[0m[K[K[?25h
+up to date, audited 414 packages in 3s
+
+135 packages are looking for funding
+  run `npm fund` for details
+
+[31m[1m3[22m[39m vulnerabilities (2 [33m[1mmoderate[22m[39m, 1 [31m[1mhigh[22m[39m)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+
+> build
+> vite build
+
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ [7mcomposer run dev[27mcomposer run dev
+[?2004l> Composer\Config::disableProcessTimeout
+> npx concurrently -c "#93c5fd,#c4b5fd,#fb7185,#fdba74" "php artisan serve" "php artisan queue:listen --tries=1" "php artisan pail --timeout=0" "npm run dev" --names=server,queue,logs,vite
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ composer run dev
+[?2004l> Composer\Config::disableProcessTimeout
+> npx concurrently -c "#93c5fd,#c4b5fd,#fb7185,#fdba74" "php artisan serve" "php artisan queue:listen --tries=1" "php artisan pail --timeout=0" "npm run dev" --names=server,queue,logs,vite
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ cd ..
+[?2004l[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites[00m$ cd ..omposer run devnpm install && npm run build
+[?2004l[37;40mnpm[0m [0m[31;40mERR![0m [0m[35mcode[0m ENOENT
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35msyscall[0m open
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35mpath[0m /mnt/c/Users/Work Huy/Development/Byte Sized Sites/package.json
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35merrno[0m -2
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35menoent[0m ENOENT: no such file or directory, open '/mnt/c/Users/Work Huy/Development/Byte Sized Sites/package.json'
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35menoent[0m This is related to npm not being able to find a file.
+[0m[37;40mnpm[0m [0m[31;40mERR![0m [0m[35menoent[0m 
+[0m
+[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m A complete log of this run can be found in:
+[0m[37;40mnpm[0m [0m[31;40mERR![0m[35m[0m     /home/huyndo/.npm/_logs/2025-04-08T02_33_32_709Z-debug-0.log
+[0m[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites[00m$ npm install && npm run buildcd ..[Komposer run dev
+[?2004lComposer could not find a composer.json file in /mnt/c/Users/Work Huy/Development/Byte Sized Sites
+To initialize a project, please create a composer.json file. See https://getcomposer.org/basic-usage
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites[00m$ [7mcomposer global require laravel/installer[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccomposer global require laravel/installer
+[A
+[?2004l[32mChanged current directory to /home/huyndo/.config/composer[39m
+[32m./composer.json has been updated[39m
+[32mRunning composer update laravel/installer[39m
+[32mLoading composer repositories with package information[39m
+[32mUpdating dependencies[39m
+Nothing to modify in lock file
+[32mWriting lock file[39m
+[32mInstalling dependencies from lock file (including require-dev)[39m
+Nothing to install, update or remove
+[32mGenerating autoload files[39m
+[32m18 packages you are using are looking for funding.[39m
+[32mUse the `composer fund` command to find out more![39m
+[32mNo security vulnerability advisories found.[39m
+Using version [32m^5.14[39m for [32mlaravel/installer[39m
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites[00m$ cd byte-sized-sites/
+[?2004l[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ [7mnpm install && npm run build[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnpm install && npm run build
+[A
+[?2004l[?25l([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 187ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 187ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 187ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠸ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 187ms[0m[K([107;97m##################[0m) ⠴ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠋ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠏ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠸ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠧ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠦ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠇ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K([107;97m##################[0m) ⠦ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 29ms[0m[K[K[?25h
+up to date, audited 414 packages in 1s
+
+135 packages are looking for funding
+  run `npm fund` for details
+
+[31m[1m3[22m[39m vulnerabilities (2 [33m[1mmoderate[22m[39m, 1 [31m[1mhigh[22m[39m)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+
+> build
+> vite build
+
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ [7mcomposer run dev[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccomposer run dev
+[A
+[?2004l> Composer\Config::disableProcessTimeout
+> npx concurrently -c "#93c5fd,#c4b5fd,#fb7185,#fdba74" "php artisan serve" "php artisan queue:listen --tries=1" "php artisan pail --timeout=0" "npm run dev" --names=server,queue,logs,vite
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ npm audit
+[?2004l
+[?25l([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠹ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠹ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠹ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠹ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠋ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠦ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K[K[?25h[1m# npm audit report[22m
+
+[1m@babel/helpers[22m  <7.26.10
+Severity: [33m[1mmoderate[22m[39m
+[1mBabel has inefficient RexExp complexity in generated code with .replace when transpiling named capturing groups[22m - https://github.com/advisories/GHSA-968p-4wvh-cqc8
+[32m[1mfix available[22m[39m via `npm audit fix`
+[2mnode_modules/@babel/helpers[22m
+
+[1maxios[22m  1.0.0 - 1.8.1
+Severity: [31m[1mhigh[22m[39m
+[1maxios Requests Vulnerable To Possible SSRF and Credential Leakage via Absolute URL[22m - https://github.com/advisories/GHSA-jr5f-v2jv-69x6
+[32m[1mfix available[22m[39m via `npm audit fix`
+[2mnode_modules/axios[22m
+
+[1mvite[22m  6.2.0 - 6.2.4
+Severity: [33m[1mmoderate[22m[39m
+[1mVite bypasses server.fs.deny when using ?raw??[22m - https://github.com/advisories/GHSA-x574-m823-4x7w
+[1mVite has a `server.fs.deny` bypassed for `inline` and `raw` with `?import` query[22m - https://github.com/advisories/GHSA-4r4m-qw57-chr8
+[1mVite allows server.fs.deny to be bypassed with .svg or relative paths[22m - https://github.com/advisories/GHSA-xcj6-pq6g-qj4x
+[32m[1mfix available[22m[39m via `npm audit fix`
+[2mnode_modules/vite[22m
+
+[31m[1m3[22m[39m vulnerabilities (2 [33m[1mmoderate[22m[39m, 1 [31m[1mhigh[22m[39m)
+
+To address all issues, run:
+  npm audit fix
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ 
+[?2004l[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ nom [K[K[Kpm as[Kus[Kdit fix
+[?2004l[?25l([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠹ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠹ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠹ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠹ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠙ audit: [32;40mtiming[0m [35marborist:ctor[0m Completed in 1ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠙ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠸ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠴ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠧ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠙ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠴ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠧ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠙ idealTree:laravel-vite-plugin: [32;40mtiming[0m [35midealTree:init[0m Completed in 3ms[0m[K([107;97m#######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree:byte-sized-sites: [32;40mtiming[0m [35midealTree:#root[0m Completed in 809ms[0m[K([107;97m#######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree:byte-sized-sites: [32;40mtiming[0m [35midealTree:#root[0m Completed in 809ms[0m[K([107;97m#######[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠏ idealTree:byte-sized-sites: [32;40mtiming[0m [35midealTree:#root[0m Completed in 809ms[0m[K([107;97m########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠼ idealTree:@babel/core: [32;40mtiming[0m [35midealTree:node_modules/@babel/core[0m Completed in 113ms[0m[K([107;97m############[0m[100;90m⠂⠂⠂⠂⠂⠂[0m) ⠋ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 1024ms[0m[K([107;97m#################[0m[100;90m⠂[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 9ms[0m[K([107;97m#################[0m[100;90m⠂[0m) ⠹ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 9ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/template: [7msill[0m [35mtarball[0m no local data for axios@https://registry.npmjs.org/axios/-/axios-1.8.4.tgz. Extracting b[0m[K([107;97m##################[0m) ⠼ reify:@babel/parser: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/template[0m Completed in 114ms[0m[K([107;97m##################[0m) ⠼ reify:@babel/parser: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/template[0m Completed in 114ms[0m[K([107;97m##################[0m) ⠋ reify:vite: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/parser[0m Completed in 151ms[0m[K([107;97m##################[0m) ⠋ reify:vite: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/parser[0m Completed in 151ms[0m[K([107;97m##################[0m) ⠹ reify:axios: [32;40mhttp[0m [35mfetch[0m GET 200 https://registry.npmjs.org/axios/-/axios-1.8.4.tgz 344ms (cache miss)[0m[K([107;97m##################[0m) ⠹ reify:axios: [32;40mhttp[0m [35mfetch[0m GET 200 https://registry.npmjs.org/axios/-/axios-1.8.4.tgz 344ms (cache miss)[0m[K([107;97m##################[0m) ⠹ reify:axios: [32;40mhttp[0m [35mfetch[0m GET 200 https://registry.npmjs.org/axios/-/axios-1.8.4.tgz 344ms (cache miss)[0m[K([107;97m##################[0m) ⠸ reify:@babel/helpers: [32;40mtiming[0m [35mreifyNode:node_modules/axios[0m Completed in 361ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K([107;97m##################[0m) ⠸ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K([107;97m##################[0m) ⠼ reify:@babel/types: [32;40mtiming[0m [35mreifyNode:node_modules/@babel/helpers[0m Completed in 498ms[0m[K[K[?25h
+changed 6 packages, and audited 414 packages in 3s
+
+135 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ npm audit fix[Kcomposer run devnpm install && npm run build
+[?2004l[?25l([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 194ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 194ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 194ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 194ms[0m[K([107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m) ⠸ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 194ms[0m[K([107;97m##################[0m) ⠴ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 30ms[0m[K([107;97m##################[0m) ⠏ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 30ms[0m[K([107;97m##################[0m) ⠋ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 30ms[0m[K([107;97m##################[0m) ⠙ reify:@esbuild/aix-ppc64: [32;40mtiming[0m [35mreifyNode:node_modules/@esbuild/android-arm[0m Completed in 30ms[0m[K[K[?25h
+up to date, audited 414 packages in 792ms
+
+135 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+
+> build
+> vite build
+
+[36mvite v6.2.5 [32mbuilding for production...[36m[39m
+^[[A^[[A^[[A[2K[1Gtransforming (1) [2mresources/css/app.css[22m[2K[1Gtransforming (4) [2mnode_modules/laravel-vite-plugin/inertia-helpers/index.js[22m[2K[1Gtransforming (18) [2mnode_modules/react/cjs/react-jsx-runtime.production.js[22m[2K[1Gtransforming (26) [2m commonjsHelpers.js[22m[2K[1Gtransforming (28) [2mresources/js/components/input-error.tsx[22m[2K[1Gtransforming (41) [2mnode_modules/axios/index.js[22m[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1Gtransforming (61) [2mnode_modules/react-dom/cjs/react-dom.production.js[22m[2K[1G[2K[1G[2K[1G[2K[1Gtransforming (83) [2mnode_modules/lucide-react/dist/esm/icons/arrow-up-narrow-wide.js[22m[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1Gtransforming (84) [2mnode_modules/react-dom/client.js[22m[2K[1Gtransforming (145) [2mnode_modules/lucide-react/dist/esm/icons/earth.js[22m[2K[1Gtransforming (214) [2mnode_modules/lucide-react/dist/esm/icons/square-arrow-up-left.js[22m[2K[1Gtransforming (285) [2mnode_modules/lucide-react/dist/esm/icons/align-center-horizontal.js[22m[2K[1Gtransforming (351) [2mnode_modules/lucide-react/dist/esm/icons/arrow-up-down.js[22m[2K[1Gtransforming (426) [2mnode_modules/lucide-react/dist/esm/icons/binary.js[22m[2K[1Gtransforming (490) [2mnode_modules/lucide-react/dist/esm/icons/cake-slice.js[22m[2K[1Gtransforming (570) [2mnode_modules/lucide-react/dist/esm/icons/circle-dot-dashed.js[22m[2K[1Gtransforming (652) [2mnode_modules/lucide-react/dist/esm/icons/copyleft.js[22m[2K[1Gtransforming (730) [2mnode_modules/lucide-react/dist/esm/icons/external-link.js[22m[2K[1Gtransforming (793) [2mnode_modules/lucide-react/dist/esm/icons/files.js[22m[2K[1Gtransforming (852) [2mnode_modules/lucide-react/dist/esm/icons/forward.js[22m[2K[1Gtransforming (919) [2mnode_modules/lucide-react/dist/esm/icons/heading.js[22m[2K[1Gtransforming (990) [2mnode_modules/lucide-react/dist/esm/icons/layout-panel-left.js[22m[2K[1Gtransforming (1058) [2mnode_modules/lucide-react/dist/esm/icons/map-pin.js[22m[2K[1Gtransforming (1132) [2mnode_modules/lucide-react/dist/esm/icons/mouse-pointer-ban.js[22m[2K[1Gtransforming (1206) [2mnode_modules/lucide-react/dist/esm/icons/pencil-ruler.js[22m[2K[1Gtransforming (1290) [2mnode_modules/lucide-react/dist/esm/icons/refresh-ccw-dot.js[22m[2K[1Gtransforming (1372) [2mnode_modules/lucide-react/dist/esm/icons/shield-minus.js[22m[2K[1Gtransforming (1452) [2mnode_modules/lucide-react/dist/esm/icons/sunset.js[22m[2K[1Gtransforming (1517) [2mnode_modules/lucide-react/dist/esm/icons/toy-brick.js[22m[2K[1Gtransforming (1590) [2mnode_modules/lucide-react/dist/esm/icons/volume.js[22m[2K[1Gtransforming (1641) [2mnode_modules/@headlessui/react/dist/hooks/use-event.js[22m[2K[1G[2K[1G[2K[1Gtransforming (1653) [2mnode_modules/@headlessui/react/dist/hooks/use-on-unmount.js[22m[2K[1Gtransforming (1673) [2mnode_modules/@headlessui/react/dist/hooks/use-refocusable-input.js[22m[2K[1Gtransforming (1712) [2mnode_modules/@headlessui/react/dist/utils/stable-collection.js[22m[2K[1Gtransforming (1724) [2mnode_modules/axios/lib/utils.js[22m[2K[1G[2K[1Gtransforming (1748) [2mnode_modules/@headlessui/react/dist/utils/store.js[22m[2K[1G[2K[1Gtransforming (1756) [2mnode_modules/@react-aria/focus/dist/FocusScope.mjs[22m[2K[1Gtransforming (1784) [2mnode_modules/@headlessui/react/dist/hooks/use-document-event.js[22m[2K[1Gtransforming (1800) [2mnode_modules/axios/lib/helpers/null.js[22m[2K[1G[2K[1G[2K[1G[2K[1G[2K[1Gtransforming (1822) [2mnode_modules/side-channel-list/index.js[22m[2K[1Gtransforming (1823) [2mnode_modules/@react-aria/interactions/dist/utils.mjs[22m[2K[1Gtransforming (1841) [2mnode_modules/axios/lib/helpers/parseProtocol.js[22m[2K[1Gtransforming (1851) [2mnode_modules/@react-aria/utils/dist/filterDOMProps.mjs[22m[2K[1Gtransforming (1901) [2mnode_modules/es-errors/range.js[22m[2K[1Gtransforming (1937) [2mnode_modules/@radix-ui/react-dropdown-menu/dist/index.mjs[22m[2K[1G[2K[1G[2K[1Gtransforming (1954) [2mnode_modules/use-callback-ref/dist/es2015/index.js[22m[2K[1Gtransforming (1956) [2mnode_modules/react-remove-scroll-bar/dist/es2015/constants.js[22m[2K[1G[2K[1G[2K[1Gtransforming (1965) [2mnode_modules/use-sidecar/dist/es2015/exports.js[22m[2K[1G[2K[1Gtransforming (1988) [2mnode_modules/@radix-ui/react-roving-focus/dist/index.mjs[22m[2K[1G[2K[1G[2K[1Gtransforming (1999) [2mnode_modules/qs/lib/stringify.js[22m[2K[1G[32m✓[39m 2004 modules transformed.
+[2K[1Grendering chunks (1)...[2K[1Grendering chunks (2)...[2K[1Grendering chunks (3)...[2K[1Grendering chunks (4)...[2K[1Grendering chunks (5)...[2K[1Grendering chunks (6)...[2K[1Grendering chunks (7)...[2K[1Grendering chunks (8)...[2K[1Grendering chunks (9)...[2K[1Grendering chunks (10)...[2K[1Grendering chunks (11)...[2K[1Grendering chunks (12)...[2K[1Grendering chunks (13)...[2K[1Grendering chunks (14)...[2K[1Grendering chunks (15)...[2K[1Grendering chunks (16)...[2K[1Grendering chunks (17)...[2K[1Grendering chunks (18)...[2K[1Grendering chunks (19)...[2K[1Grendering chunks (20)...[2K[1Grendering chunks (21)...[2K[1Grendering chunks (22)...[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1Gcomputing gzip size (2)...[2K[1Gcomputing gzip size (3)...[2K[1Gcomputing gzip size (4)...[2K[1Gcomputing gzip size (5)...[2K[1Gcomputing gzip size (6)...[2K[1Gcomputing gzip size (7)...[2K[1Gcomputing gzip size (8)...[2K[1Gcomputing gzip size (9)...[2K[1Gcomputing gzip size (10)...[2K[1Gcomputing gzip size (11)...[2K[1Gcomputing gzip size (12)...[2K[1Gcomputing gzip size (13)...[2K[1Gcomputing gzip size (14)...[2K[1Gcomputing gzip size (15)...[2K[1Gcomputing gzip size (16)...[2K[1Gcomputing gzip size (17)...[2K[1Gcomputing gzip size (18)...[2K[1Gcomputing gzip size (19)...[2K[1Gcomputing gzip size (20)...[2K[1Gcomputing gzip size (21)...[2K[1Gcomputing gzip size (22)...[2K[1Gcomputing gzip size (23)...[2K[1G[2mpublic/build/[22m[32mmanifest.json                        [39m[1m[2m  7.59 kB[22m[1m[22m[2m │ gzip:   0.91 kB[22m
+[2mpublic/build/[22m[2massets/[22m[35mapp-Cfayyaka.css              [39m[1m[2m 76.55 kB[22m[1m[22m[2m │ gzip:  13.04 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mtext-link-Beyz0I3p.js         [39m[1m[2m  0.36 kB[22m[1m[22m[2m │ gzip:   0.26 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mindex-DABiW4uJ.js             [39m[1m[2m  0.55 kB[22m[1m[22m[2m │ gzip:   0.40 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mverify-email-DQiaih5v.js      [39m[1m[2m  1.06 kB[22m[1m[22m[2m │ gzip:   0.61 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mconfirm-password-CKikjRIf.js  [39m[1m[2m  1.23 kB[22m[1m[22m[2m │ gzip:   0.65 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mauth-layout-DLypFMOm.js       [39m[1m[2m  1.37 kB[22m[1m[22m[2m │ gzip:   0.65 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mforgot-password-KSvQz7i0.js   [39m[1m[2m  1.48 kB[22m[1m[22m[2m │ gzip:   0.77 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mlabel-Ca-VjiIs.js             [39m[1m[2m  1.57 kB[22m[1m[22m[2m │ gzip:   0.78 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mdashboard-D-efZMqH.js         [39m[1m[2m  1.89 kB[22m[1m[22m[2m │ gzip:   0.65 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mreset-password-CEuLJd23.js    [39m[1m[2m  1.98 kB[22m[1m[22m[2m │ gzip:   0.75 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mlayout-DpeBzvx9.js            [39m[1m[2m  2.28 kB[22m[1m[22m[2m │ gzip:   0.98 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mregister-Bcv3KZor.js          [39m[1m[2m  2.47 kB[22m[1m[22m[2m │ gzip:   0.93 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mappearance-EntRZevt.js        [39m[1m[2m  2.61 kB[22m[1m[22m[2m │ gzip:   1.12 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mpassword-cyQ8vs4w.js          [39m[1m[2m  2.66 kB[22m[1m[22m[2m │ gzip:   1.00 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mindex-DwpnbMGq.js             [39m[1m[2m  4.75 kB[22m[1m[22m[2m │ gzip:   1.96 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mlogin-C2Zb0LfU.js             [39m[1m[2m  5.54 kB[22m[1m[22m[2m │ gzip:   2.45 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mprofile-CCU91-R5.js           [39m[1m[2m  6.52 kB[22m[1m[22m[2m │ gzip:   2.34 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mtransition-BFv2boh7.js        [39m[1m[2m 14.33 kB[22m[1m[22m[2m │ gzip:   5.68 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mapp-logo-icon-BXP8C9PA.js     [39m[1m[2m 28.11 kB[22m[1m[22m[2m │ gzip:   9.78 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mwelcome-CqvrbleD.js           [39m[1m[2m 48.16 kB[22m[1m[22m[2m │ gzip:   8.70 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mapp-layout-C3L4QJYF.js        [39m[1m[2m105.85 kB[22m[1m[22m[2m │ gzip:  33.54 kB[22m
+[2mpublic/build/[22m[2massets/[22m[36mapp-DJUOlHWO.js               [39m[1m[2m324.31 kB[22m[1m[22m[2m │ gzip: 106.16 kB[22m
+[32m✓ built in 20.62s[39m
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ npm install && npm run build[15Paudit fix[Kcomposer run devnpm install && npm run build[8Pcd byte-sized-sites/omposer global require laravel/installer[21Pd byte-sized-sites/npm install && npm run build[12Pcomposer run dev[7Pnpm audit fix[Kcomposer run dev
+[?2004l> Composer\Config::disableProcessTimeout
+> npx concurrently -c "#93c5fd,#c4b5fd,#fb7185,#fdba74" "php artisan serve" "php artisan queue:listen --tries=1" "php artisan pail --timeout=0" "npm run dev" --names=server,queue,logs,vite
+[?2004h]0;huyndo@WIIMOTE: /mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[01;32mhuyndo@WIIMOTE[00m:[01;34m/mnt/c/Users/Work Huy/Development/Byte Sized Sites/byte-sized-sites[00m$ npm fun de[K[K[K[K[K[Krun dev
+[?2004l
+> dev
+> vite
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v6.2.5[39m  [2mready in [0m[1m1333[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [3
